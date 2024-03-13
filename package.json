@@ -1,0 +1,14 @@
+{
+  "name": "truco",
+  "version": "1.0.0",
+  "description": "meu primeiro jogo",
+  "main": "index.js",
+  "scripts": {
+    "test": "truco.js"
+  },
+  "author": "Mari",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
